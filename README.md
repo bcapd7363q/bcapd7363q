@@ -1,4 +1,4 @@
-- 👋 Hi, I’m byt@bcapd7363q.bt
+- 👋 Hi, I’m bcapd7363q.byt.bt
 - 👀 I’m interested in shower🚿
 - 🌱 I’m currently learning battery🔋
 - 💞️ I’m looking to collaborate on alibaba/Laravel
